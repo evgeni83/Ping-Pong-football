@@ -1,0 +1,19 @@
+.football {
+  width: fit-content;
+  position: relative;
+  margin-top: 20px;
+  margin-bottom: 20px;
+}
+
+.field {
+  height: 90vh;
+  border-radius: 10px;
+}
+
+.ball {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100px;
+  height: 100px;
+}
